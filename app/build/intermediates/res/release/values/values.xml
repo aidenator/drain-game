@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/121/Chapter_4_Compass/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="background_color">#F555</color>
+    <color name="marker_color">#AFFF</color>
+    <color name="text_color">#AFFF</color>
+    <!-- From: file:/C:/121/Chapter_4_Compass/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Compass</string>
+    <string name="cardinal_east">E</string>
+    <string name="cardinal_north">N</string>
+    <string name="cardinal_south">S</string>
+    <string name="cardinal_west">W</string>
+</resources>
